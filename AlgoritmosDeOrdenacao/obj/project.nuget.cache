@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zq9ecw/EYqq6+8Z46zRowfXgBAYV651TR5tiNnSpe5ZMrEN8/aQIZu03FCHt70y6Dz9X7ppWDlNckTRwhUu6wA==",
+  "success": true,
+  "projectFilePath": "E:\\Trabalhos Puc\\Programacao Orientada a Objeto\\AlgoritmosDeOrdenacao\\AlgoritmosDeOrdenacao\\AlgoritmosDeOrdenacao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Matheus Canuto\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Matheus Canuto\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Matheus Canuto\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Matheus Canuto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
